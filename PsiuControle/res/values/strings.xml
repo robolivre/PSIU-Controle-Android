@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">PsiuControle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Psiu-Controle</string>
+    <string name="paraFrente">Para Frente</string>
+    <string name="paraTras">Para Trás</string>
+    <string name="giraEsquerda">Gira Esquerda</string>
+    <string name="giraDireita">Gira Direita</string>
+    <item type="integer" name="margem" format="integer">100</item>
+    <string name="refresh">Refresh</string>
+
+</resources>
